@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pranil",
+        "id": 16,
+        "email": "palikhelpranil24@gmail.com",
+        "phone_number": 4567890123,
+        "subject": "Art",
+        "address": "Bkt"
+    },
+    {
+        "name": "Mandila Bhandari",
+        "id": 24,
+        "email": "mandila@khwopa.edu",
+        "phone_number": 5678901234,
+        "subject": "English",
+        "address": "Nepal"
+    },
+    {
+        "name": "Sushil Dyopala",
+        "id": 123,
+        "email": "SushilDyopala@gmail.com",
+        "phone_number": 1234567890,
+        "subject": "PythonML",
+        "address": "FuseAI"
+    },
+    {
+        "name": "Daju Bhai Tyatta",
+        "id": 69,
+        "email": "BuzznasakiraChaina@gmail.com",
+        "phone_number": 6969696969,
+        "subject": "Plasma",
+        "address": "Libali"
+    },
+    {
+        "name": "Anjan",
+        "id": 6,
+        "email": "anjan@gm.c",
+        "phone_number": 1234567890,
+        "subject": "anjan",
+        "address": "erath"
+    }
+]
